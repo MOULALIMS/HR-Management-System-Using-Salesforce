@@ -11,10 +11,6 @@ The HR Management System is a Salesforce-powered application that centralizes an
 - Track applicant statuses, from application submission to hiring.  
 - Analyze recruitment channels to determine the most effective sources of candidates.  
 
-#### Employee Onboarding:  
-- Automate task assignments for new hires.  
-- Track onboarding milestones to ensure seamless integration into the organization.  
-
 #### Employee Record Management:  
 - Maintain detailed profiles of employees, including job roles, locations, and performance data.  
 - Use relationships to link employees to managers and their assigned locations.  
@@ -34,8 +30,7 @@ The HR Management System is a Salesforce-powered application that centralizes an
 
 **Technology Stack**  
 - **Salesforce Platform:** Custom objects, Apex classes, Flows, Lightning Web Components (LWC), and dashboards.  
-- **GitHub for Version Control:** Collaborative tracking of project updates and changes.  
-- **Lightning Design System (SLDS):** Ensures a responsive and professional user interface.  
+- **GitHub for Version Control:** Collaborative tracking of project updates and changes.
 
 **Outcomes**  
 
